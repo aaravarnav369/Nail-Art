@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Getting Started with Nail Art: Essential Tools and Techniques",
+      "slug": "getting-started-nail-art",
+      "author": "Aarav Arnav",
+      "date": "2025-12-20",
+      "category": "Tutorial",
+      "excerpt": "Learn the fundamental tools and techniques you need to start your nail art journey. This beginner's guide covers everything from choosing the right brushes to mastering basic strokes.",
+      "content": "Starting with nail art can be exciting and rewarding. In this comprehensive guide, we'll explore the essential tools every nail artist should have, including various brush sizes, dotting tools, and nail polishes. We'll also cover basic techniques like color blocking, line work, and simple designs.",
+      "image": "/images/posts/getting-started.jpg",
+      "tags": ["beginner", "tools", "techniques", "tutorial"],
+      "views": 1250,
+      "likes": 342
+    },
+    {
+      "id": 2,
+      "title": "Summer Vibes: Tropical Nail Art Designs",
+      "slug": "summer-tropical-nail-designs",
+      "author": "Aarav Arnav",
+      "date": "2025-12-15",
+      "category": "Design",
+      "excerpt": "Brighten your summer with vibrant tropical nail art designs. From palm trees to sunset gradients, discover stunning designs perfect for the season.",
+      "content": "Summer is the perfect time to experiment with bold and vibrant nail designs. This post features a collection of tropical-inspired nail art designs including flamingos, palm leaves, sunset gradients, and ocean waves. Learn step-by-step instructions for creating these eye-catching designs.",
+      "image": "/images/posts/tropical-nails.jpg",
+      "tags": ["summer", "tropical", "design", "colorful"],
+      "views": 2150,
+      "likes": 521
+    },
+    {
+      "id": 3,
+      "title": "Geometric Patterns: Modern Nail Art Trends",
+      "slug": "geometric-patterns-nail-trends",
+      "author": "Aarav Arnav",
+      "date": "2025-12-10",
+      "category": "Trends",
+      "excerpt": "Explore the latest geometric nail art trends. From minimalist lines to complex patterns, discover how to create stunning geometric designs.",
+      "content": "Geometric nail art is a growing trend in the nail art community. This guide covers various geometric patterns including triangles, hexagons, stripes, and intricate tessellations. Learn professional techniques for creating clean lines and precise patterns using tape and stencils.",
+      "image": "/images/posts/geometric-nails.jpg",
+      "tags": ["geometric", "modern", "trends", "patterns"],
+      "views": 1890,
+      "likes": 467
+    },
+    {
+      "id": 4,
+      "title": "Advanced Stamping Techniques: Level Up Your Skills",
+      "slug": "advanced-stamping-techniques",
+      "author": "Aarav Arnav",
+      "date": "2025-12-05",
+      "category": "Advanced",
+      "excerpt": "Master advanced stamping techniques to create intricate designs. From multi-color stamping to layering, take your skills to the next level.",
+      "content": "Stamping is a powerful tool for creating detailed nail art quickly. This advanced tutorial covers multi-color stamping, reverse stamping, layering techniques, and how to create custom stamping plates. We'll also explore troubleshooting common stamping issues.",
+      "image": "/images/posts/stamping-techniques.jpg",
+      "tags": ["advanced", "stamping", "techniques", "intermediate"],
+      "views": 1560,
+      "likes": 389
+    },
+    {
+      "id": 5,
+      "title": "Nail Care Basics: Keep Your Nails Healthy",
+      "slug": "nail-care-basics",
+      "author": "Aarav Arnav",
+      "date": "2025-11-28",
+      "category": "Care",
+      "excerpt": "Healthy nails are the foundation for beautiful nail art. Learn essential nail care tips to maintain strong and healthy nails.",
+      "content": "Before diving into nail art, it's crucial to understand proper nail care. This post covers nail hygiene, moisturizing routines, protecting nails from damage, and proper nutrition for nail health. We'll also discuss common nail problems and how to address them.",
+      "image": "/images/posts/nail-care.jpg",
+      "tags": ["care", "health", "maintenance", "tips"],
+      "views": 2340,
+      "likes": 612
+    }
+  ]
+}
